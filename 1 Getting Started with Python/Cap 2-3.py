@@ -4,7 +4,7 @@
 
 
 horas = input("Enter Hours:")
-taxa= input ("qual é a taxa:")
+taxa= input ("EnterRate:")
 hrs_con= (float (horas))
 taxa_con = (float (taxa))
 pay=hrs_con* taxa_con
